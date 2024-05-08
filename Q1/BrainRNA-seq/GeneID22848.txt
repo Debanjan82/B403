@@ -1,0 +1,7 @@
+#BioProject PRJNA270632
+
+
+#GeneID	adrenal 10wk	adrenal 16wk	adrenal 18wk	adrenal 20wk	heart 10wk	heart 11wk	heart 17wk	heart 18wk	heart 20wk	intestine 10wk	intestine 11wk	intestine 15wk	intestine 17wk	intestine 20wk	kidney 10wk	kidney 16wk	kidney 20wk	lung 10wk	lung 17wk	lung 20wk	stomach 10wk	stomach 16wk	stomach 18wk	stomach 20wk	
+22848	2.39	1.99	2.23	1.84	1.42	1.55	1.07	1.05	1.16	1.48	1.39	1.25	0.638	1.63	1.83	0.801	0.202	1.41	0.735	0.725	1.2	1.27	1.06	1.25	
+
+
